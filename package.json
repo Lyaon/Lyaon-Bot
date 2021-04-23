@@ -1,0 +1,25 @@
+{
+  "name": "hermitcraftbot",
+  "version": "2.0.0",
+  "description": "A custom Discord bot for HermitCraft Fan Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopcoder/HermitcraftBot.git"
+  },
+  "author": "theopcoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theopcoder/HermitcraftBot/issues"
+  },
+  "homepage": "https://github.com/theopcoder/HermitcraftBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
